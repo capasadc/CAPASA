@@ -18,11 +18,13 @@ If you do not have PayPal or if you have any questions about your membership sta
 ## Find Us on Social
 
 We are transitioning to a new website, but we promise to be back up and running soon! In the meantime, please check out our upcoming events on our social media accounts. 
-<center>
+<div align="center">
+  
 [![Facebook](/Pictures/Facebook.png)](https://www.facebook.com/CongressionalAPAStaff/)
 [![Instagram](/Pictures/Instagram.png)](https://www.instagram.com/capasa_dc/)
 [![Twitter](/Pictures/Twitter.png)](https://twitter.com/capasadc)
-</center>
+
+</div>
 
 ## Tri-Caucus Staff Associations
 
