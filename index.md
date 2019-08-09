@@ -5,13 +5,17 @@
 
 We are a non-partisan congressional staff organization designed to provide you with opportunities to meet other Asian Americans and Pacific Islanders on Capitol Hill through professional development seminars, social networking events, and more.
 
+For general inquiries, please contact us at capasa.info@gmail.com.
+
 ## Become a Member
 
-[**Sign up to be a member here!**](https://form.jotform.com/72825217993163)
+[**Sign up to be a member or renew your dues here!**](https://form.jotform.com/72825217993163)
 
-For general inquiries, please contact us at capasa.info@gmail.com. For membership inquiries, please contact Kelvin Lum (kelvin.lum@mail.house.gov).
+Dues are only $10 a year and these funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities the staff association is approached about. Click here to join or renew your dues today!
 
-## Find us on Social
+If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum (kelvin.lum@mail.house.gov). 
+
+## Find Us on Social
 
 We are transitioning to a new website, but we promise to be back up and running soon! In the meantime, please check out our upcoming events on our social media accounts. 
 
