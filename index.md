@@ -19,7 +19,7 @@ If you do not have PayPal or if you have any questions about your membership sta
 
 We are transitioning to a new website, but we promise to be back up and running soon! In the meantime, please check out our upcoming events on our social media accounts. 
 
-<div style="display:block; margin-left:auto; margin-right:auto>
+<div style="display:block; margin-left:auto; margin-right:auto">
             
 <a href="https://www.facebook.com/CongressionalAPAStaff/"><img src="/Pictures/Facebook.png">
 <a href="https://www.instagram.com/capasa_dc/"><img src="/Pictures/Instagram.png">
