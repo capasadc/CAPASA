@@ -5,7 +5,7 @@
 
 We are a non-partisan congressional staff organization designed to provide you with opportunities to meet other Asian Americans and Pacific Islanders on Capitol Hill through professional development seminars, social networking events, and more.
 
-For general inquiries, please contact us at capasa.info@gmail.com.
+For general inquiries, please contact us at [capasa.info@gmail.com](mailto:capasa.info@gmail.com).
 
 ## Become a Member
 
@@ -13,16 +13,16 @@ For general inquiries, please contact us at capasa.info@gmail.com.
 
 Dues are only $10 a year and these funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities the staff association is approached about. Click here to join or renew your dues today!
 
-If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum (kelvin.lum@mail.house.gov). 
+If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum ([kelvin.lum@mail.house.gov](mailto:kelvin.lum@mail.house.gov)). 
 
 ## Find Us on Social
 
 We are transitioning to a new website, but we promise to be back up and running soon! In the meantime, please check out our upcoming events on our social media accounts. 
-
+<center>
 [![Facebook](/Pictures/Facebook.png)](https://www.facebook.com/CongressionalAPAStaff/)
 [![Instagram](/Pictures/Instagram.png)](https://www.instagram.com/capasa_dc/)
 [![Twitter](/Pictures/Twitter.png)](https://twitter.com/capasadc)
-
+</center>
 
 ## Tri-Caucus Staff Associations
 
