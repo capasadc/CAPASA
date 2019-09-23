@@ -26,6 +26,7 @@ I would like to formally express my interest in running for Senate Vice Presiden
 <li>Election year panel on how campaigns affect employment on the Hill, and the process for Hill staffers seeking appointments to the Administration</li>
 <li>Limited-attendance networking events centered on specific subject matter (e.g. foreign affairs, education, oversight and investigations, etc.).</li>
 <li>Socials events that are not at bars and restaurants, because those traditional venues can be alienating or overwhelming</li>
+ </ul>
   </td>
   </tr></table>
 ## Who We Are
