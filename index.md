@@ -1,34 +1,5 @@
 # Congressional Asian Pacific American Staff Association
 
-
-## Upcoming Special Election for Senate Vice President 
-When: September 27, 2-3PM
-
-Where: SVC-203
- 
-A special election will now be held during CAPASA's general body meeting on Friday SEPTEMBER 27 in SVC203 from 2-3 PM.
-
-Members must be present to vote. Each member will be given one ballot. Only dues-paying members as of September 20th, 2019 may participate in CAPASA election. If you have questions about your membership, please contact Kelvin Lum (kelvin.lum@mail.house.gov).
-
-### Senate VP Candidate Statements
-
-<table>
-  <tr> <td> Anthony Reyes </td><td> Rachit Choksi </td></tr>
-    
-<tr><td>
-I would like to formally express my interest in running for Senate Vice President of CAPASA. After over a year of experience here in the Senate and before that, years of experience working in the AAPI community, I have developed my skills and passion for the mission of CAPASA. As Capitol Hill becomes increasingly diverse, it is essential to ensure that our community is heard and represented across Congress. <br><br> There are two specific goals I would focus on as Senate Vice President for CAPASA. The first would be to ensure that the Asian Pacific American political pipeline on Capitol Hill is working at all levels. A robust professional development program developing junior and senior staffers is an important part of this pipeline. Particularly in the Senate, where a broad array of professionals at different stages in their life work, having a strong community-based network is important. Given that, my second goal would be ensuring that CAPASA also serves to uplift our community both on and off Capitol Hill. As a non-partisan and bicameral staff organization, it is important that the privilege of working on Capitol Hill is paired with the responsibility of uplifting our community. This includes hosting events, building partnerships, and being responsive to our community's needs in a space which is only now beginning to hear our voice. <br><Br> I believe given my experience with the community and desire to impact it greater, I would serve these goals well as Senate Vice President. Thank you for the consideration and I look forward to hearing from the committee and colleagues.
-  </td><td>
-  I am writing to apply for the position of Senate Vice President because AAPI Senate staffers are in need of more robust programming and CAPASA will ultimately suffer from the continued absence of participation by Senate staffers. I would come to this position with having served in the House and Senate for more than 3 years and having practiced law for 9 years in the executive branch and private sector. I have organized social, professional development, and subject matter-focused events for bar associations in NY, NJ, and DC and for a 501(c)(4) based in DC. My plans for this role fall into four programming categories: access to senior staff and leadership staff; extending our reach beyond the Hill; strengthening our interactions with other staff associations; and strengthening the CAPASA family. This plan reflects my experiences with CAPASA, my conversations with CAPASA members at different professional stages in their careers, and my conversations with members of other staff associations. My plans are also based on the assumption that most AAPI Senate staffers are mid-level staffers. Programming and word-of-mouth advertising are the best ways to advertise CAPASA’s value and grow our Senate membership. <br><br> Examples of events I would plan: <br>
-  <ul>
-    <li>Panel or meet and greet event with Leadership staff</li>
-  <li>Panel on institutional professional development opportunities, such as the Wilson Foreign Policy Fellowship or the Aspen Institute’s Leadership Programs</li>
-<li>Panel for junior CAPASA and non-Hill staff on the functions of and opportunities at non-political Congressional components (i.e. the General Counsel’s office, GAO, CRS, Legislative Counsel, and Library of Congress)</li>
-<li>Election year panel on how campaigns affect employment on the Hill, and the process for Hill staffers seeking appointments to the Administration</li>
-<li>Limited-attendance networking events centered on specific subject matter (e.g. foreign affairs, education, oversight and investigations, etc.).</li>
-<li>Socials events that are not at bars and restaurants, because those traditional venues can be alienating or overwhelming</li>
- </ul>
-  </td>
-  </tr></table>
 ## Who We Are
 
 We are a non-partisan congressional staff organization designed to provide you with opportunities to meet other Asian Americans and Pacific Islanders on Capitol Hill through professional development seminars, social networking events, and more.
