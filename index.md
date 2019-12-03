@@ -2,7 +2,7 @@
 
 ## Who We Are
 
-We are a non-partisan congressional staff organization designed to provide you with opportunities to meet other Asian Americans and Pacific Islanders on Capitol Hill through professional development seminars, social networking events, and more.
+We are a non-partisan congressional staff organization designed to provide you with opportunities to meet other Asian Americans and Pacific Islanders on Capitol Hill through professional development seminars, social networking events, and more. To learn about the other Tri-Caucus staff associations, click [here](staffassociations.html).
 
 For general inquiries, please contact us at [capasa.info@gmail.com](mailto:capasa.info@gmail.com).
 
