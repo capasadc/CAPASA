@@ -6,6 +6,8 @@ We are a non-partisan congressional staff organization designed to provide you w
 
 For general inquiries, please contact us at [capasa.info@gmail.com](mailto:capasa.info@gmail.com).
 
+Read more about the board [here](board.html).
+
 ## Become a Member
 
 [**Sign up to be a member or renew your dues here!**](https://form.jotform.com/72825217993163)
