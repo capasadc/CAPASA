@@ -18,4 +18,6 @@ If you do not have PayPal or if you have any questions about your membership sta
 
 <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
 <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
-<ul class="juicer-feed" data-feed-id="capasa_dc"><ul class="juicer-feed" data-feed-id="capasa_dc" data-per="9"></ul><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
+<ul class="juicer-feed" data-feed-id="capasa_dc"><ul class="juicer-feed" data-feed-id="capasa_dc" data-per="9"></ul></ul>
+
+<h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1>
