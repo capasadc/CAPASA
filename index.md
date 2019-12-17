@@ -1,3 +1,6 @@
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
+
 # Congressional Asian Pacific American Staff Association
 
 ## Who We Are
@@ -16,4 +19,4 @@ Dues are only $10 a year and these funds allow us to put on great events through
 If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum ([kelvin.lum@mail.house.gov](mailto:kelvin.lum@mail.house.gov)). 
 
   
-
+<div class="fb-page" data-href="https://www.facebook.com/CongressionalAPAStaff/" data-tabs="timeline,events" data-width="" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/CongressionalAPAStaff/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/CongressionalAPAStaff/">Congressional Asian Pacific American Staff Association</a></blockquote></div>
