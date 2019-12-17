@@ -41,3 +41,4 @@ Meet the Board
     <td>President Emeritus and Advisory Board Chair</td>
     <td>Moh Sharma</td>
   </tr>
+</table>
