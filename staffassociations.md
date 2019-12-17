@@ -10,7 +10,7 @@ To become a member, click [here](https://form.jotform.com/72825217993163).
 
 ## Congressional Hispanic Staff Association (CHSA)
 
-The Congressional Hispanic Staff Association (CHSA) is an official, non-partisan, bicameral Congressional Staff Organization, recognized by the Committee on House Administration, whose mission is to recruit, retain, and advance Hispanic staffers in the U.S. Senate and U.S. House of Representatives. ​
+The Congressional Hispanic Staff Association (CHSA) is an official, non-partisan, bicameral Congressional Staff Organization, recognized by the Committee on House Administration, whose mission is to recruit, retain, and advance Hispanic staffers in the U.S. Senate and U.S. House of Representatives.
 
 To become a member, click [here](https://www.chsadc.org/membership.html).
 
