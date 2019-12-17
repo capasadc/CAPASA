@@ -18,6 +18,7 @@ Dues are only $10 a year and these funds allow us to put on great events through
 
 If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum ([kelvin.lum@mail.house.gov](mailto:kelvin.lum@mail.house.gov)). 
 
- ## Recent Activities and Events
+
+## Recent Activities and Events
  
 <div class="fb-page" data-href="https://www.facebook.com/CongressionalAPAStaff/" data-tabs="timeline,events" data-width="500" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/CongressionalAPAStaff/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/CongressionalAPAStaff/">Congressional Asian Pacific American Staff Association</a></blockquote></div>
