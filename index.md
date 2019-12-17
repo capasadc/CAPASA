@@ -1,5 +1,3 @@
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
 
 # Congressional Asian Pacific American Staff Association
 
@@ -18,5 +16,6 @@ Dues are only $10 a year and these funds allow us to put on great events through
 
 If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum ([kelvin.lum@mail.house.gov](mailto:kelvin.lum@mail.house.gov)). 
 
-
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/f7324fcd034c540391f5de1a64c61edc.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
+<ul class="juicer-feed" data-feed-id="capasa_dc"><h1 class="referral"><a href="https://www.juicer.io">Powered by Juicer.io</a></h1></ul>
