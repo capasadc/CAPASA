@@ -12,7 +12,7 @@ For general inquiries, please contact us at [capasa.info@gmail.com](mailto:capas
 
 [**Sign up to be a member or renew your dues here!**](https://form.jotform.com/72825217993163)
 
-Dues are only $15 a year and these funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities the staff association is approached about. Click here to join or renew your dues today!
+Dues are only $15 a year and these funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities the staff association is approached about.
 
 If you do not have PayPal or if you have any questions about your membership status, please contact Kelvin Lum ([kelvin.lum@mail.house.gov](mailto:kelvin.lum@mail.house.gov)). 
 
