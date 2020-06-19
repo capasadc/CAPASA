@@ -119,6 +119,7 @@ Cathy Yu, Director of Labor and Health Oversight, House Committee on Education a
 <b>Recent Hill Alumni Advisors</b>
 
 Saat Alety, Former Subcommittee Staff Director, Senate Banking Subcommittee on Housing, Transportation, and Community Development, U.S. Senator Tim Scott (SC)
+
 Adam P. Carbullido, Former Chief of Staff, Rep. Madeleine Bordallo (GU)
 
 Rosalyn Kumar, Former Deputy Chief of Staff, Rep. Debbie Wasserman Schultz (FL-23)
