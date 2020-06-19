@@ -44,4 +44,4 @@
 </table>
 
 # Meet the 2020 CAPASA Advisory Board
-<img src="capasaadvisoryboard.png">
+<img src="Pictures/capasaadvisoryboard.png">
