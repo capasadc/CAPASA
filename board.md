@@ -126,6 +126,8 @@ Rosalyn Kumar, Former Deputy Chief of Staff, Rep. Debbie Wasserman Schultz (FL-2
 
 Ricky Le, Former Chief of Staff, Rep. Eric Swalwell (CA-15)
 
+Neal Patel, Former Communications Director and Connsel, Sen. Dean Heller (NV)
+
 Linda Shim, Former Chief of Staff, Rep. Judy Chu (CA-27)
 
 Minh Ta, Former Chief of Staff, Rep. Gwen Moore (WI-04) and Rep. Lisa Blunt Rochester (DE)
