@@ -1,4 +1,4 @@
-# Meet the 2019 CAPASA Board
+# Meet the 2020 CAPASA Board
 
 <table>
   <tr>
@@ -7,11 +7,11 @@
   </tr>
   <tr>
     <td>House Vice Presidents</td>
-    <td>Alex Huang <br> Victor Yang</td>
+    <td>Victor Yang <br> Carianne Lee</td>
   </tr>
   <tr>
     <td>Senate Vice President</td>
-    <td>Anthony Reyes</td>
+    <td>Anthony Reyes<br> Rachit Choksi</td>
   </tr>
   <tr>
     <td>Secretary</td>
@@ -23,18 +23,25 @@
   </tr>
   <tr>
     <td>Communications Director</td>
-    <td>Alex Hetherington</td>
-  </tr>
-  <tr>
-    <td>Communications Lead</td>
-    <td>Carianne Lee</td>
+    <td>Cody Sibulo</td>
   </tr>
   <tr>
     <td>Social Media Lead</td>
     <td>Mo Elinzano</td>
+  </tr>
+    <tr>
+    <td>Professional Development Lead</td>
+    <td>Ngoc Nguyen</td>
+  </tr>
+    <tr>
+    <td>Community & Networking Lead</td>
+    <td>Kana Smith</td>
   </tr>
   <tr>
     <td>President Emeritus and Advisory Board Chair</td>
     <td>Moh Sharma</td>
   </tr>
 </table>
+
+# Meet the 2020 CAPASA Advisory Board
+<img src="capasaadvisoryboard.png">
