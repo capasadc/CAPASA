@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td> Deputy Treasurer</td>
-    <td> Jonah Jim</td>
+    <td> Jonah Kim</td>
   </tr>
   <tr> 
     <td> Membership Engagement Lead </td>
