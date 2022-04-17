@@ -1,21 +1,21 @@
-# Meet the 2020 CAPASA Board
+# Meet the 2022 CAPASA Board
 
 <table>
   <tr>
-    <td>Presidents</td>
-    <td>Alice Lin <br> Liz Lee </td>
+    <td>President</td>
+    <td>Carianne Lee</td>
   </tr>
   <tr>
     <td>House Vice Presidents</td>
-    <td>Victor Yang <br> Carianne Lee</td>
+    <td>Mo Elinzano <br> Mitch Heidenreich</td>
   </tr>
   <tr>
     <td>Senate Vice President</td>
-    <td>Anthony Reyes<br> Rachit Choksi</td>
+    <td>Catalina Tam</td>
   </tr>
   <tr>
     <td>Secretary</td>
-    <td>Catalina Tam</td>
+    <td>Avery Gagne</td>
   </tr>
   <tr>
     <td>Treasurer</td>
@@ -23,22 +23,62 @@
   </tr>
   <tr>
     <td>Communications Director</td>
-    <td>Cody Sibulo</td>
-  </tr>
-  <tr>
-    <td>Social Media Lead</td>
     <td>Mo Elinzano</td>
   </tr>
-    <tr>
-    <td>Professional Development Lead</td>
-    <td>Ngoc Nguyen</td>
-  </tr>
-    <tr>
-    <td>Community & Networking Lead</td>
-    <td>Kana Smith</td>
+  <tr>
+    <td>New Media Assistant</td>
+    <td>James Kwon</td>
   </tr>
   <tr>
-    <td>President Emeritus and Advisory Board Chair</td>
+    <td>Resume Bank and Jobs Board Manager</td>
+    <td>Katrina Oshima</td>
+  </tr>
+    <tr>
+    <td>Mentorship Program Coodinators</td>
+    <td>Catalina Tam <br> Cynthia Tong</td>
+  </tr>
+    <tr>
+    <td>Professional Development Coordinator</td>
+    <td>Lizzie Haskell</td>
+  </tr>
+  <tr>
+    <td> Deputy Treasurer</td>
+    <td> Jonah Jim</td>
+  </tr>
+  <tr> 
+    <td> Membership Engagement Lead </td>
+    <td> Leah Han</td>
+  </tr>
+  <tr>
+    <td> Welcome Team Lead</td>
+    <td>Jamie Hopkins </td>
+  </tr>
+  <tr>
+     <td> Committee Staff Outreach Lead</td>
+    <td>Manasi Raveendran</td>
+  </tr>
+  <tr>
+     <td> District Staff Outreach Lead</td>
+    <td>Anushree Jumdee</td>
+  </tr>
+  <tr>
+    <td> Director of Social Engagement</td>
+    <td>Nikki Rai</td>
+  </tr>
+  <tr>
+    <td> Director of Community Service</td>
+    <td> Ananda Bhatia</td>
+  </tr>
+  <tr>
+   <td> APAICS Liaison</td>
+    <td>Alex Huang</td>
+  </tr>
+  <tr>  
+    <td>President Emeritus</td> 
+    <td>Alice Lin</td>
+     </tr>
+    <tr>
+    <td>Advisory Board Chair</td>
     <td>Moh Sharma</td>
   </tr>
 </table>
