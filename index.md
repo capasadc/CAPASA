@@ -14,7 +14,7 @@ For general inquiries, please contact us at [capasa.info@gmail.com](mailto:capas
 
 
 
-Dues are $10 for permanent Hill staff and free for interns, fellows, and detailees. These funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities. 
+Dues are $15 for permanent Hill staff and free for interns, fellows, and detailees. These funds allow us to put on great events throughout the year. Also, members will be the first people to have access to invitations and unique opportunities. 
 
 If you are experiencing financial challenges, please do not hesitate to reach out to any member of the board, or specifically our treasurer, Kelvin Lum at kelvin.lum@mail.house.gov. You can also send questions about your membership status to CAPASA@mail.house.gov.
 
