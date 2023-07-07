@@ -1,4 +1,6 @@
-# Meet the 2022 CAPASA Board
+# Meet the 2023 CAPASA Executive Board
+
+<img src="Pictures/IMG_6749-1.PNG">
 
 <table>
   <tr>
@@ -7,7 +9,7 @@
   </tr>
   <tr>
     <td>House Vice President</td>
-    <td>[Vacant]</td>
+    <td>James Kwon</td>
   </tr>
   <tr>
     <td>Senate Vice President</td>
@@ -15,74 +17,33 @@
   </tr>
   <tr>
     <td>Secretary</td>
-    <td>Avery Gagne</td>
+    <td>Tony Tran</td>
   </tr>
   <tr>
     <td>Treasurer</td>
     <td>Kelvin Lum</td>
   </tr>
   <tr>
-    <td>Communications Director</td>
-    <td>Mo Elinzano</td>
+    <td>Communications Manager</td>
+    <td>Christine Ho</td>
   </tr>
   <tr>
-    <td>New Media Assistant</td>
-    <td>James Kwon</td>
+    <td>Professional Development Chair</td>
+    <td>Jamie Hopkins</td>
   </tr>
   <tr>
-    <td>Resume Bank and Jobs Board Manager</td>
-    <td>Katrina Oshima</td>
+    <td>Social and Cultural Chairs</td>
+    <td>Casey Lee <br> Lucas Lam</td>
   </tr>
     <tr>
-    <td>Mentorship Program Coodinators</td>
-    <td>Catalina Tam <br> Cynthia Tong</td>
+    <td>Menmbership Chair</td>
+    <td>Benjamin Hong Starr</td>
   </tr>
-    <tr>
-    <td>Professional Development Coordinator</td>
-    <td>Lizzie Haskell</td>
-  </tr>
-  <tr>
-    <td> Deputy Treasurer</td>
-    <td> Jonah Kim</td>
-  </tr>
-  <tr> 
-    <td> Membership Engagement Lead </td>
-    <td> Leah Han</td>
-  </tr>
-  <tr>
-    <td> Welcome Team Lead</td>
-    <td>Jamie Hopkins </td>
-  </tr>
-  <tr>
-     <td> Committee Staff Outreach Lead</td>
-    <td>Manasi Raveendran</td>
-  </tr>
-  <tr>
-     <td> District Staff Outreach Lead</td>
-    <td>Anushree Jumdee</td>
-  </tr>
-  <tr>
-    <td> Director of Social Engagement</td>
-    <td>Nikki Rai</td>
-  </tr>
-  <tr>
-    <td> Director of Community Service</td>
-    <td> Ananda Bhatia</td>
-  </tr>
-  <tr>
-   <td> APAICS Liaison</td>
-    <td>Alex Huang</td>
-  </tr>
-  <tr>  
-    <td>President Emeritus</td> 
-    <td>Alice Lin</td>
-     </tr>
-    <tr>
     <td>Advisory Board Chair</td>
     <td>Moh Sharma</td>
   </tr>
 </table>
 
-# Meet the 2022 CAPASA Advisory Board
+# Meet the 202e CAPASA Advisory Board
 
 <img src="Pictures/2022advisoryboard.png">
