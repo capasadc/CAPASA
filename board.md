@@ -5,11 +5,11 @@
 <table>
   <tr>
     <td>Co-Presidents</td>
-    <td>Mo Elizano <br> Catalina Tam</td>
+    <td><b>Mo Elizano</b> <br> <b>Catalina Tam</b></td>
   </tr>
   <tr>
     <td>House Vice President</td>
-    <td>James Kwon</td>
+    <td><b>James Kwon</b></td>
   </tr>
   <tr>
     <td>Senate Vice President</td>
@@ -17,27 +17,27 @@
   </tr>
   <tr>
     <td>Secretary</td>
-    <td>Tony Tran</td>
+    <td><b>Tony Tran<b/></td>
   </tr>
   <tr>
     <td>Treasurer</td>
-    <td>Kelvin Lum</td>
+    <td><b>Kelvin Lum</b></td>
   </tr>
   <tr>
     <td>Communications Manager</td>
-    <td>Christine Ho</td>
+    <td><b>Christine Ho</b></td>
   </tr>
   <tr>
     <td>Professional Development Chair</td>
-    <td>Jamie Hopkins</td>
+    <td><b>Jamie Hopkins</b></td>
   </tr>
   <tr>
     <td>Social and Cultural Chairs</td>
-    <td>Casey Lee <br> Lucas Lam</td>
+    <td><b>Casey Lee</b> <br> <b>Lucas Lam</b></td>
   </tr>
   <tr>
     <td>Menmbership Chair</td>
-    <td>Benjamin Hong Starr</td>
+    <td><b>Benjamin Hong Starr</b></td>
   </tr>
 </table>
 
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>Advisory Board Chair</td>
-    <td>Moh Sharma <br> Director of Member Services, House Democratic Leader Hakeem Jeffries
+    <td><b>Moh Sharma</b> <br> Director of Member Services, House Democratic Leader Hakeem Jeffries
 </td>
   </tr>
   <tr>
@@ -77,12 +77,9 @@
     <td>Social and Cultural Chairs</td>
     <td>Casey Lee <br> Lucas Lam</td>
   </tr>
-    <tr>
+  <tr>
     <td>Menmbership Chair</td>
     <td>Benjamin Hong Starr</td>
-  </tr>
-    <td>Advisory Board Chair</td>
-    <td>Moh Sharma</td>
   </tr>
 </table>
 
